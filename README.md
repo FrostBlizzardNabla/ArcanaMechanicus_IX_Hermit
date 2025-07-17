@@ -1,7 +1,7 @@
 # Kame32
 
 <p align="center">
-  <img src="doc/kame32.jpg">
+  Work in Progress
 </p>
 
 # License 
