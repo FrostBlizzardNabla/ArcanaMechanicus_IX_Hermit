@@ -1,4 +1,4 @@
-# Kame32
+# IX-Hermit
 
 <p align="center">
   Work in Progress
